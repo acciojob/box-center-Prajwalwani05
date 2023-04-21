@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+.box{
+	border:2px solid black;
+	color: purple;
+	background:lightblue;
+	width:50%;
+	height:200px;
+	padding:10px;
+	margin:auto;
+	text-align:center;
+	padding-top:20%;
+	font-weight:bold;
+	font-size:30px;
+}
